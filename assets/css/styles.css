@@ -22,7 +22,22 @@ body {
 }
 
 /* Main Header */
+.main-header__main-menu {margin-top: 1em;}
+
 .main-header__title {margin: 0;}
+
+/* Main navigation menu */
+.main-menu {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.main-menu__items {display: inline-block;}
+
+.main-menu__items {margin-left: 1em;}
+
+.main-menu__items--first {margin-left: 0;}
 
 /* Footer */
 .footer {
