@@ -1,0 +1,12 @@
+# Footer at the bottom of the page
+
+## Description
+This is a very simple JavaScript **_Vanilla_** script whose the purpose is to prevent a footer placed at the bottom of the page to spill over the content without having to specify a height (`height` or `min-height` or `max-height`) on the footer and a `padding-bottom` on your content element.
+
+## How it works?
+It's dead simple: just include `common.js` file right before the `</body>` tag of your(s) HTML page(s).
+
+## Miscellaneous
+This short script uses the [clientHeight](https://developer.mozilla.org/en-US/docs/Web/API/Element.clientHeight) property, but you can also use the [offsetHeight](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement.offsetHeight) property.
+
+Of course, feel free to contact me if you've spotted an error or if you want to improve that script.
