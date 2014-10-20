@@ -3,6 +3,18 @@
 ## Description
 This is a very simple JavaScript **_Vanilla_** script whose the purpose is to prevent a footer placed at the bottom of the page to spill over the content without having to specify a height (`height` or `min-height` or `max-height`) on the footer and a `padding-bottom` on your content element.
 
+## Interoperability
+
+[browsers-success]: http://labo.clement-galidie.fr/footer-script/img/works.png "It works!"
+
+| Browsers              | Versions |                       | 
+|-----------------------|:--------:|-----------------------|
+| Google Chrome Canary  | 40.0     | ![][browsers-success] |
+| Google Chrome         | 38.0     | ![][browsers-success] |
+| Firefox Nightly       | 36.0     | ![][browsers-success] |
+| Firefox               | 33.0     | ![][browsers-success] |
+| Opera                 | 25.0     | ![][browsers-success] |
+
 ## How it works?
 It's dead simple: just include `common.js` file right before the `</body>` tag of your(s) HTML page(s).
 
