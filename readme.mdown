@@ -5,15 +5,13 @@ This is a very simple JavaScript **_Vanilla_** script whose the purpose is to pr
 
 ## Interoperability
 
-[browsers-success]: http://labo.clement-galidie.fr/footer-script/img/works.png "It works!"
-
-| Browsers              | Versions |                       | 
-|-----------------------|:--------:|-----------------------|
-| Google Chrome Canary  | 40.0     | ![][browsers-success] |
-| Google Chrome         | 38.0     | ![][browsers-success] |
-| Firefox Nightly       | 36.0     | ![][browsers-success] |
-| Firefox               | 33.0     | ![][browsers-success] |
-| Opera                 | 25.0     | ![][browsers-success] |
+| Browsers                  | Versions |                    | 
+|---------------------------|:--------:|--------------------|
+| Google Chrome Canary      | 41.0     | :white_check_mark: |
+| Google Chrome             | 39.0     | :white_check_mark: |
+| Firefox Developer Edition | 36.0     | :white_check_mark: |
+| Firefox                   | 35.0     | :white_check_mark: |
+| Opera                     | 26.0     | :white_check_mark: |
 
 ## How it works?
 It's dead simple: just include `common.js` file right before the `</body>` tag of your(s) HTML page(s).
